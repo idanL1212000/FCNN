@@ -1,18 +1,5 @@
 <h2>MLP Network for Digit Recognition</h2>
 <p>This repository contains a C++ implementation of a Multi-Layer Perceptron (MLP) network designed for digit recognition, along with a Python script for visualizing image data.</p>
-<h3>Table of Contents</h3>
-<ul>
-  <li>Overview</li>
-  <li>Project Structure</li>
-  <li>Building and Running the C++ MLP Network
-    <ul>
-      <li>Prerequisites</li>
-      <li>Compilation</li>
-      <li>Usage</li>
-    </ul>
-  <li>Using the Python Image Plotter</li>
-  <li>Files Description</li>
-</ul>
 <h3>Overview</h3>
 <p>The C++ MLP network is a feed-forward neural network with multiple layers, capable of classifying handwritten digits.
   It expects pre-trained weights and biases as command-line arguments. The network processes input images
